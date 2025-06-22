@@ -13,3 +13,5 @@ data_songlist = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/h
 40k_song_kaggle = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/master/40k_song_kaggle.csv from https://www.kaggle.com/datasets/zinasakr/40k-songs-with-audio-features-and-lyrics
 
 89k_song_kaggle = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/master/89k_song_kaggle.csv from https://www.kaggle.com/datasets/devdope/900k-spotify?select=spotify_dataset.csv
+
+billboard hit (some) song = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/master/bbhs_kaggle.csv from https://www.kaggle.com/datasets/dem0nking/billboard-hits-songs-dataset
