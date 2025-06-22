@@ -7,3 +7,7 @@ data_lyrics = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/hea
 data_releasedate = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_releasedateandsomegenre%3F.csv
 
 data_songlist = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/songlist.csv
+
+1m_song_kaggle = https://media.githubusercontent.com/media/Tassanai5/seniorproject/refs/heads/master/1m_song_kaggle.csv
+
+40k_song_kaggle = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/master/40k_song_kaggle.csv
