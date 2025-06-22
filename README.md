@@ -8,6 +8,6 @@ data_releasedate = https://raw.githubusercontent.com/Tassanai5/seniorproject/ref
 
 data_songlist = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/songlist.csv
 
-1m_song_kaggle = https://media.githubusercontent.com/media/Tassanai5/seniorproject/refs/heads/master/1m_song_kaggle.csv
+1m_song_kaggle = https://media.githubusercontent.com/media/Tassanai5/seniorproject/refs/heads/master/1m_song_kaggle.csv from https://www.kaggle.com/datasets/devdope/900k-spotify?select=spotify_dataset.csv
 
-40k_song_kaggle = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/master/40k_song_kaggle.csv
+40k_song_kaggle = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/master/40k_song_kaggle.csv from https://www.kaggle.com/datasets/zinasakr/40k-songs-with-audio-features-and-lyrics
