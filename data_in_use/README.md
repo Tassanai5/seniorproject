@@ -9,7 +9,7 @@ in_bb_song_withlyric_classified = https://raw.githubusercontent.com/Tassanai5/se
 in_bb_song_final = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/in_bb_song_final.csv
 
 out_bb_song = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/out_bb_song.csv
-samp_out_bb_song (60 times = 44760) = 
+samp_out_bb_song (60 times = 44760) = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/samp_out_bb_song.csv
 samp_out_bb_song_withlyric = 
 samp_out_bb_song_withlyric_classified = 
 samp_out_bb_song_final = 
