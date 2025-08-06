@@ -18,6 +18,8 @@ billboard hit (some) song = https://raw.githubusercontent.com/Tassanai5/seniorpr
 
 2k_song_kaggle = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/master/2k_song_kaggle.csv from https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019
 
+universal_top_spotify_songs (use only song from 2024) = LOCAL FILE from https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
+
 draft99 = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_draft99.csv which is pop-song outside billboard
 
 draft99 with lyrics = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_draft99_with_lyric.csv which is pop-song outside billboard
