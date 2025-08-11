@@ -16,4 +16,4 @@ samp_out_bb_song_final = https://raw.githubusercontent.com/Tassanai5/seniorproje
 
 
 
-master_1387_df =
+master_1387_df = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/master_1387_df.csv
