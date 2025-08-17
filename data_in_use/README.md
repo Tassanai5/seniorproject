@@ -22,7 +22,7 @@ master_1387_df = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/
 
 
 
-Splited Dataframe (already undersampling to 25:75)
+Splited Dataframe (undersampling 25%75% -- TrainTest 20%80% -- CV 5 folds)
 
 train_df_with_folds = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/train_df_with_folds.csv
 
