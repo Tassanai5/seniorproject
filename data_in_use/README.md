@@ -19,6 +19,9 @@ feat_artist = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/hea
 master_1387_df = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/master_1387_df.csv
 
 
+
+
+
 Splited Dataframe (already undersampling to 25:75)
 
 train_df_with_folds = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/train_df_with_folds.csv
