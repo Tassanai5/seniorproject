@@ -20,15 +20,6 @@ master_1387_df = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/
 master_5050_df = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/master_5050_df.csv
 
 
-DF to use in late fusion model.
-
-lyric_oof = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_oof_prob.csv
-audio_oof = 
-
-lyric_test = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_test_prob.csv
-audio_test = 
-
-
 Splited Dataframe (undersampling 25%75% -- TrainTest 20%80% -- CV 5 folds)
 
 train_df_with_folds = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/train_df_with_folds.csv
@@ -40,3 +31,12 @@ Splited Dataframe (undersampling 50%50% -- TrainTest 20%80% -- CV 5 folds)
 train_df_with_folds-5050 = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/train_df_with_folds-5050.csv
 
 test_df-5050 = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/test_df-5050.csv
+
+
+DF to use in late fusion model.
+
+lyric_oof = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_oof_prob.csv
+audio_oof = 
+
+lyric_test = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_test_prob.csv
+audio_test = 
