@@ -20,7 +20,13 @@ master_1387_df = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/
 master_5050_df = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/master_5050_df.csv
 
 
+DF to use in late fusion model.
 
+lyric_oof = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_oof_prob.csv
+audio_oof = 
+
+lyric_test = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_test_prob.csv
+audio_test = 
 
 
 Splited Dataframe (undersampling 25%75% -- TrainTest 20%80% -- CV 5 folds)
