@@ -36,7 +36,7 @@ test_df-5050 = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/he
 DF to use in late fusion model.
 
 lyric_oof = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_oof_prob.csv
-audio_oof = 
+audio_oof = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/audio_oof_prob.csv
 
 lyric_test = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_test_prob.csv
-audio_test = 
+audio_test = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/audio_test_prob.csv
