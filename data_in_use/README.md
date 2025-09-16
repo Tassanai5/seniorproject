@@ -42,3 +42,14 @@ audio_oof = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads
 lyric_test = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_test_prob.csv
 
 audio_test = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/audio_test_prob.csv
+
+
+Output from combined notebook using in late fusion model.
+
+oof_l = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/oof_lyric.csv
+
+oof_a = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/oof_audio.csv
+
+test_l = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/test_lyric.csv
+
+test_a = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/test_audio.csv
