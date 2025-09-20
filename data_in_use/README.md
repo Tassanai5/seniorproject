@@ -33,7 +33,7 @@ train_df_with_folds-5050 = https://raw.githubusercontent.com/Tassanai5/seniorpro
 test_df-5050 = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/test_df-5050.csv
 
 
-DF to use in late fusion model.
+DF from seperated notebook to use in late fusion model.
 
 lyric_oof = https://github.com/Tassanai5/seniorproject/raw/refs/heads/main/data_in_use/OutputFromSeperatedModel/lyric_oof_prob.csv
 
@@ -47,10 +47,10 @@ audio_test = https://github.com/Tassanai5/seniorproject/raw/refs/heads/main/data
 
 Output from combined notebook using in late fusion model.
 
-oof_l = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/oof_lyric.csv
+oof_a = https://github.com/Tassanai5/seniorproject/raw/refs/heads/main/data_in_use/OutputFromCombinedModel/oof_audio.csv
 
-oof_a = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/oof_audio.csv
+oof_l = https://github.com/Tassanai5/seniorproject/raw/refs/heads/main/data_in_use/OutputFromCombinedModel/oof_lyric.csv
 
-test_l = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/test_lyric.csv
+test_a = https://github.com/Tassanai5/seniorproject/raw/refs/heads/main/data_in_use/OutputFromCombinedModel/test_audio.csv
 
-test_a = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/test_audio.csv
+test_l = https://github.com/Tassanai5/seniorproject/raw/refs/heads/main/data_in_use/OutputFromCombinedModel/test_lyric.csv
