@@ -35,13 +35,14 @@ test_df-5050 = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/he
 
 DF to use in late fusion model.
 
-lyric_oof = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_oof_prob.csv
+lyric_oof = https://github.com/Tassanai5/seniorproject/raw/refs/heads/main/data_in_use/OutputFromSeperatedModel/lyric_oof_prob.csv
 
-audio_oof = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/audio_oof_prob.csv
+audio_oof = 
+https://github.com/Tassanai5/seniorproject/raw/refs/heads/main/data_in_use/OutputFromSeperatedModel/audio_oof_prob.csv
 
-lyric_test = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/lyric_test_prob.csv
+lyric_test = https://github.com/Tassanai5/seniorproject/raw/refs/heads/main/data_in_use/OutputFromSeperatedModel/lyric_test_prob.csv
 
-audio_test = https://raw.githubusercontent.com/Tassanai5/seniorproject/refs/heads/main/data_in_use/audio_test_prob.csv
+audio_test = https://github.com/Tassanai5/seniorproject/raw/refs/heads/main/data_in_use/OutputFromSeperatedModel/audio_test_prob.csv
 
 
 Output from combined notebook using in late fusion model.
